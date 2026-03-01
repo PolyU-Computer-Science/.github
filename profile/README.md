@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🚀 PolyU CS Project Team
-*(Feel free to replace this with your actual team name!)*
 
 **A dedicated group of Computer Science students building cool things.**
 
